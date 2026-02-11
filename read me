@@ -1,0 +1,16 @@
+# Calendar Assistant 
+### Intelligent Schedule Management with Gemini AI
+
+Calendar Assistant is a smart scheduler that syncs with Google Calendar and uses AI to summarize your day.
+
+## Features
+- **AI Insights:** Summarizes your busy schedule using Gemini 1.5 Flash.
+- **Crimson UI:** Premium dark-mode interface.
+- **All-Day Events:** Keep your tasks visible all day long.
+
+## Installation
+1. Clone the repo: `git clone https://github.com/Isafwankhan/Calendar-Assistant.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Add your `.env` file with `GEMINI_API_KEY`.
+4. Place your `credentials.json` in the root folder.
+5. Run the app: `streamlit run app.py`
